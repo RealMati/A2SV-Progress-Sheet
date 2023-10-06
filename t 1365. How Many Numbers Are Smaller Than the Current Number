@@ -1,0 +1,19 @@
+class Solution(object):
+    def smallerNumbersThanCurrent(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        res=[0]*len(nums)
+        sett=set(nums)
+        ans=sorted(list(sett))
+        for i in range(len(nums)):
+            if nums.count(nums[i])>1:
+                res[i]=ans.index(nums[i])
+            else:
+                res[i]=sorted(nums).index(nums[i])
+
+        return res
+
+            
+        return res
