@@ -1,0 +1,16 @@
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        s = s.lower()
+        a = ""
+        for i in s:
+            oo = ord(i)
+            if 97 <= oo <= 122 or 48 <= oo <= 57:
+                a += i
+
+        a = a.replace(" ", "") 
+
+        return a == a[::-1] 
