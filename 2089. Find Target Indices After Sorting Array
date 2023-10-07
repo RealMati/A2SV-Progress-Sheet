@@ -1,0 +1,15 @@
+class Solution(object):
+    def targetIndices(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        nums.sort()
+        res=[]
+        ind=-1
+        for i in range(nums.count(target)):
+            ind=nums.index(target,ind+1)    
+            res.append(ind)
+        return res
+        
