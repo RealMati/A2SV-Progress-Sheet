@@ -1,0 +1,20 @@
+num=int(input())
+for q in range(num):
+    a=int(input())-1
+    test = input().split()
+    test= [int(q) for q in test]
+    test.sort()
+    res=False
+    if len(test)>1:
+        for i in range(a):
+            if i+1<len(test) and (test[i+1]-test[i])<=1:
+                res=True
+            elif i+1<len(test) and (test[i+1]-test[i])>1:
+                res=False
+                break
+        if res==True:
+            print('yes')
+        else:
+            print('no')
+    else:
+        print('yes')
