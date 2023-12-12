@@ -4,8 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        res=s.split()
 
+        
     
-        return " ".join(res[::-1])
+        return " ".join((s.split())[::-1])
         
