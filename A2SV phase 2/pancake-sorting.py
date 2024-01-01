@@ -1,0 +1,21 @@
+class Solution(object):
+    def pancakeSort(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: List[int]
+        """
+        res=[]
+        solved=set()
+        while arr!=sorted(arr):
+            m=max(arr[:len(arr)-len(solved)])
+            ind=arr.index(m)+1
+            if ind==1:
+                arr=arr[0:m][::-1]+arr[m:]
+                res.append(m)
+                solved.add(m)
+            else:
+                arr=arr[0:ind][::-1]+arr[ind:]
+                res.append(ind)
+                solved.add(m)
+        return res
+        
