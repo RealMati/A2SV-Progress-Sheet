@@ -5,20 +5,14 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        ct=len(nums)
-        for idx,num in enumerate(nums):
-            if num==val:
-                nums[idx]='_'
-                ct-=1
-
         read=write=0
 
         while read<len(nums):
-            if nums[read]!='_':
+            if nums[read]!=val:
                 nums[read],nums[write]=nums[write],nums[read]
                 read+=1
                 write+=1
             else:
                 read+=1
         
-        return ct
+        return write
