@@ -21,8 +21,7 @@ class Solution(object):
                     else:
                         zeroCt -= 1
                         l+=1
-                maxx=max(maxx,r-l+1)
-             
+                       
         maxx=max(maxx, len(nums)-l)
 
         return maxx
