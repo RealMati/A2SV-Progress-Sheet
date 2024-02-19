@@ -1,16 +1,13 @@
-class Solution:
-    def isValid(self, s: str) -> bool:
-        stack=[]
-        open={'{',"[","("}
-        dic={"}":"{",']':'[',")":"("}
-
-        for i in s:
-            if i in open: stack.append(i)
-            elif stack and stack[-1]==dic[i]:
-                stack.pop()
+class Solution(object):
+    def isValid(self, s):
+        stack = []
+        map = {"}":"{",")":"(","]":"["}
+        for par in s:
+            if par in map:
+                if len(stack)!= 0 and stack[-1] == map[par]:
+                    stack.pop()
+                else:
+                    return False
             else:
-                return False
-            
-        if stack:
-                return False
-        return True
+                stack.append(par)
+        return True if len(stack) == 0 else False
