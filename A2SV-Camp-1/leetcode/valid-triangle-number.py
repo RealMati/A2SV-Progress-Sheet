@@ -1,22 +1,16 @@
 class Solution:
     def triangleNumber(self, nums):
-        n, total = len(nums), 0
-
         nums.sort()
+        count = 0
 
-        for i in range(2,n):
-            low, high = 0, i-1 
-            target = nums[i]
-
-            while low < high:
-                if nums[low] + nums[high] > target:
-                    total += high - low 
-                    high -= 1 
+        for third in range(2, len(nums)):
+            first=0
+            sec = third - 1
+            while first< sec:
+                if nums[first] + nums[sec] > nums[third]:
+                    count += sec-first
+                    # print(nums[first],nums[sec],nums[third])
+                    sec -= 1
                 else:
-                    low += 1 
-
-        return total
-
-
-            
-        
+                    first += 1
+        return count
