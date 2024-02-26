@@ -7,19 +7,16 @@
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
         dic=defaultdict(int)
-        maxx=0
-
         def c(cur):
-            nonlocal maxx
             if cur:
                 dic[cur.val]+=1
                 cur.left=c(cur.left)
-                maxx=max(maxx, dic[cur.val])
                 cur.right=c(cur.right)
                 return cur
         c(root)
         ans=[]
+        v=max(dic.values())
         for key in dic:
-            if dic[key]==maxx:
+            if dic[key]==v:
                 ans.append(key)
         return ans
