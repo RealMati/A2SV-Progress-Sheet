@@ -1,7 +1,7 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
         board=[["."]*n for i in range(n)]
-        res=[]
+        res=0
         def validPos(ro,co):
             # for rr in range(n):
             #     if board[rr][col]=="Q":
@@ -42,9 +42,10 @@ class Solution:
             #     col+=1
             return True            
 
-        def c(col):         
+        def c(col): 
+            nonlocal res        
             if col==n:
-                res.append(["".join(i) for i in board])
+                res+=1
                 return 
                 
             for row in range(n):
@@ -53,6 +54,6 @@ class Solution:
                     c(col+1)
                     board[row][col]="."
 
-        if 2<=n<=3: return 0
+        # if 2<=n<=3: return 0
         c(0)
-        return len(res)
+        return res
