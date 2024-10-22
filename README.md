@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Graph
 |  |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3386-find-edges-in-shortest-paths) |
+## Matrix
+|  |
+| ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 <!---LeetCode Topics End-->
