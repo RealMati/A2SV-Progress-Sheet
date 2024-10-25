@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
@@ -37,4 +38,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
