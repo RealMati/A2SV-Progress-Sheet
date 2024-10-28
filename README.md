@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1916-find-center-of-star-graph](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1916-find-center-of-star-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Heap (Priority Queue)
