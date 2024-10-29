@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3582-find-indices-of-stable-mountains](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3582-find-indices-of-stable-mountains) |
 ## Graph
 |  |
 | ------- |
