@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0134-gas-station) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3582-find-indices-of-stable-mountains](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3582-find-indices-of-stable-mountains) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0437-path-sum-iii) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
