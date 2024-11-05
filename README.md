@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0437-path-sum-iii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0437-path-sum-iii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3386-find-edges-in-shortest-paths) |
 ## Matrix
@@ -51,11 +53,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0437-path-sum-iii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0437-path-sum-iii](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0437-path-sum-iii) |
 ## Greedy
 |  |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1786-count-the-number-of-consistent-strings) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
