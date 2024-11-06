@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0134-gas-station) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
