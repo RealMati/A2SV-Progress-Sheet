@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0134-gas-station](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1185-find-in-mountain-array) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -98,4 +99,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0162-find-peak-element](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1185-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
