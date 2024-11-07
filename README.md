@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0162-find-peak-element) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
