@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0162-find-peak-element) |
+| [0416-partition-equal-subset-sum](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1185-find-in-mountain-array) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/1185-find-in-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RealMati/A2SV-Progress-Sheet/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
